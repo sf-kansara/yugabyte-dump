@@ -1,0 +1,6 @@
+# Dump folders
+db-sql-dump-*
+table-csv-dump-*
+
+# Temp folder
+z/
